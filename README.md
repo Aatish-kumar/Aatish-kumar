@@ -19,8 +19,8 @@
 
 
 ### Glad to see you here!  
-I’m a full-stack developer 
-Focusing on building user friendly  
+I’m a full-stack developer.
+Focusing on building user friendly applications.
   
 
 <br/>  
