@@ -29,10 +29,10 @@ Focusing on building user friendly applications.
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+- 🔭 I’m currently working ona Chat App. 
   
 
-- 🌱 I’m currently learning  
+- 🌱 I’m currently learning Mern Stack.
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
