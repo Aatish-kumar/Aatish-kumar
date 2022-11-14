@@ -8,12 +8,13 @@
 <a href="https://twitter.com/@Aatish___Kumar" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
+<a href="https://linkedin.com/in/aatish-kumar-697445128" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
 <a href="https://dev.to/@aatishkumar" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/aatish-kumar-697445128" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
+
   
 
 
@@ -29,7 +30,7 @@ Focusing on building user friendly applications.
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working ona Chat App. 
+- 🔭 I’m currently working on a Chat App. 
   
 
 - 🌱 I’m currently learning Mern Stack.
@@ -38,7 +39,7 @@ Focusing on building user friendly applications.
 - ❓ Ask me about anything related to MERN stack and related technologies  
   
 
-- ⚡ Fun fact: I keep night shift swithed on at all times   
+   
 
 
 </td><td valign="top" width="50%">
